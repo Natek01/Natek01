@@ -1,9 +1,10 @@
+👋 Hey there! it is Nahil,
 
+  I'm a developer who loves building cool stuff!
+   
+- 🛠️ Working with Express.js to build powerful backends
+- 🌱 Learning MongoDB inside out – one query at a time!
+- 💼 Creating a full-featured Job Board App with the MERN stack
+- 🎨 Designing my personal Portfolio using React + Tailwind CSS v4
 
-Hey, it is Nahil,
-
-- 🔧 Express.js Backend Developer – I build scalable, secure, and optimized APIs using Node.js and Express.  
-- 🧠 Learning MongoDB in Depth – Currently diving deep into MongoDB, from schema design to aggregation pipelines.  
-- 💼 Building a Full-Stack Job Board – A MERN stack platform with authentication, file uploads, job listings, and dashboards.  
-- 🌐 Personal Portfolio in Progress – Crafting a clean, transparent design with React, Tailwind CSS v4, Bootstrap, and Vite.
-
+Let's connect and code something awesome together! 🚀
